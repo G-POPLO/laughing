@@ -1,0 +1,14 @@
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\bin\Debug\net8.0\AvaloniaApplication2.deps.json
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\bin\Debug\net8.0\AvaloniaApplication2.dll
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\bin\Debug\net8.0\AvaloniaApplication2.pdb
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\AvaloniaApplication2.csproj.AssemblyReference.cache
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\Avalonia\resources
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\AvaloniaApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\AvaloniaApplication2.AssemblyInfoInputs.cache
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\AvaloniaApplication2.AssemblyInfo.cs
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\AvaloniaApplication2.csproj.CoreCompileInputs.cache
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\Avalonia\AvaloniaApplication2.dll
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\Avalonia\AvaloniaApplication2.pdb
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\refint\Avalonia\AvaloniaApplication2.dll
+C:\Users\C-Poplo\source\repos\AvaloniaApplication2\obj\Debug\net8.0\ref\AvaloniaApplication2.dll
